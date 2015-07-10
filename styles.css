@@ -1,7 +1,12 @@
 .mdl-card{
-	margin:10px 50px;
+	margin:auto;
+	align-items: center;
 }
 
-.mdl-grid{
-	width:100%;
+.centered{
+	text-align: center;
+
+}
+.centered .material-icons{
+	vertical-align: middle;
 }
